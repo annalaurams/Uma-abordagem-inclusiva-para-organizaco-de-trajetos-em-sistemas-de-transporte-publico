@@ -1,0 +1,171 @@
+Cor,Id,Estacao
+Azul,1,Jabaquara
+Azul,1,Conceição
+Azul,1,São Judas
+Azul,1,Saúde
+Azul,1,Praça da Árvore
+Azul,1,Santa Cruz
+Azul,1,Vila Mariana
+Azul,1,Ana Rosa
+Azul,1,Paraíso
+Azul,1,Vergueiro
+Azul,1,São Joaquim
+Azul,1,Japão-Liberdade
+Azul,1,Sé
+Azul,1,São Bento
+Azul,1,Luz
+Azul,1,Tiradentes
+Azul,1,Armênia
+Azul,1,Portuguesa-Tietê
+Azul,1,Carandiru
+Azul,1,Santana
+Azul,1,Jardim São Paulo-Ayrton Senna
+Azul,1,Parada Inglesa
+Azul,1,Tucuruvi
+Verde,2,Vila Prudente
+Verde,2,Tamanduateí
+Verde,2,Sacomã
+Verde,2,Alto do Ipiranga
+Verde,2,Santos-Imigrantes
+Verde,2,Chácara Klabin
+Verde,2,Brigadeiro
+Verde,2,Trianon-Masp
+Verde,2,Consolação
+Verde,2,Clínicas
+Verde,2,S. N. Sra. de Fátima-Sumaré
+Verde,2,Vila Madalena
+Vermelha,3,Corinthians Itaquera
+Vermelha,3,Artur Alvim
+Vermelha,3,Patriarca-Vila Ré
+Vermelha,3,Guilhermina-Esperança
+Vermelha,3,Vila Matilde
+Vermelha,3,Penha
+Vermelha,3,Carrão-Assaí Atacadista
+Vermelha,3,Tatuapé
+Vermelha,3,Belém
+Vermelha,3,Bresser-Mooca
+Vermelha,3,Brás
+Vermelha,3,Pedro II
+Vermelha,3,Anhangabaú
+Vermelha,3,República
+Vermelha,3,Santa Cecília
+Vermelha,3,Marechal Deodoro
+Vermelha,3,Palmeiras-Barra Funda
+Amarela,4,São Paulo-Morumbi
+Amarela,4,Butantã
+Amarela,4,Pinheiros
+Amarela,4,Faria Lima
+Amarela,4,Fradique Coutinho
+Amarela,4,Oscar Freire
+Amarela,4,Paulista 
+Amarela,4,Higienópolis-Mackenzie
+Lilás,5,Capão Redondo
+Lilás,5,Campo Limpo
+Lilás,5,Vila das Belezas
+Lilás,5,Giovanni Gronchi
+Lilás,5,Santo Amaro
+Lilás,5,Largo Treze
+Lilás,5,Adolfo Pinheiro
+Lilás,5,Alto da Boa Vista
+Lilás,5,Borba Gato
+Lilás,5,Brooklin
+Lilás,5,Campo Belo
+Lilás,5,Eucaliptos
+Lilás,5,Moema
+Lilás,5,AACD-Servidor
+Lilás,5,Hospital São Paulo
+Rubi,7,Jundiaí
+Rubi,7,Várzea Paulista
+Rubi,7,Campo Limpo Paulista
+Rubi,7,Botujuru
+Rubi,7,Francisco Morato
+Rubi,7,Baltazar Fidélis
+Rubi,7,Franco da Rocha
+Rubi,7,Caieiras
+Rubi,7,Perus
+Rubi,7,Jaraguá
+Rubi,7,Vila Clarice
+Rubi,7,Pirituba
+Rubi,7,Piqueri
+Rubi,7,Lapa
+Rubi,7,Água Branca
+Rubi,7,Vila Aurora
+Diamante,8,Itapevi
+Diamante,8,Engenheiro Cardoso
+Diamante,8,Sagrado Coração
+Diamante,8,Jandira
+Diamante,8,Jardim SIlveira
+Diamante,8,Jardim Belval
+Diamante,8,Barueri
+Diamante,8,Antônio João
+Diamante,8,Santa Terezinha
+Diamante,8,Carapicuíba
+Diamante,8,Gen. Miguel Costa
+Diamante,8,Quintaúna
+Diamante,8,Com.Sampaio
+Diamante,8,Osasco
+Diamante,8,Imperatriz Leopoldina
+Diamante,8,Domingos de Moraes
+Diamante,8,Júlio Prestes
+Esmeralda,9,Presidente Altino
+Esmeralda,9,Ceasa
+Esmeralda,9,Villa Lobos Jaguaré
+Esmeralda,9,Cidade Universitária
+Esmeralda,9,Hebraica Rebouças
+Esmeralda,9,Cidade Jardim
+Esmeralda,9,Vila Olímpia
+Esmeralda,9,Berrini
+Esmeralda,9,Morumbi
+Esmeralda,9,Granja Julieta
+Esmeralda,9,João Dias
+Esmeralda,9,Socorro
+Esmeralda,9,Jurubatuba
+Esmeralda,9,Autódromo
+Esmeralda,9,Primavera Interlargos
+Esmeralda,9,Grajaú
+Esmeralda,9,Mendes Vila Natal
+Turquesa,10,Juventus Mooca
+Turquesa,10,São Caetano do Sul
+Turquesa,10,Utinga
+Turquesa,10,Prefeito Saladino
+Turquesa,10,Santo André
+Turquesa,10,Capuava
+Turquesa,10,Mauá
+Turquesa,10,Guapituba
+Turquesa,10,Ribeirão Pires
+Turquesa,10,Rio Grande da Serra
+Turquesa,10,Ipiranga
+Coral,11,Dom Bosco
+Coral,11,José Bonifácio
+Coral,11,Guaianases
+Coral,11,Antônio Gianetti Neto
+Coral,11,Ferraz de Vasconcelos
+Coral,11,Poá
+Coral,11,Suzano
+Coral,11,Jundiapeba
+Coral,11,Braz Cubas
+Coral,11,Mogi das Cruzes
+Coral,11,Estudantes
+Safira,12,Engenheiro Goulart
+Safira,12,USP Leste
+Safira,12,Comendador Ermelino
+Safira,12,São Miguel Paulista
+Safira,12,Jardim Helena Vila Mara
+Safira,12,Itaim Paulista
+Safira,12,Jardim Romano
+Safira,12,Engenheiro Manoel Feio
+Safira,12,Itaquaquecetuba
+Safira,12,Aracaré
+Safira,12,Calmon Viana
+Jade,13,Guarulhos Cecap
+Jade,13,Aeroporto Guarulhos
+Prata,15,Oratório
+Prata,15,São Lucas
+Prata,15,Camilo Haddad
+Prata,15,Vila Tolstói
+Prata,15,Vila União
+Prata,15,Jardim Planalto
+Prata,15,Sapopemba
+Prata,15,Fazenda da Juta
+Prata,15,São Mateus
+Prata,15,Jardim Colonial

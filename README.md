@@ -1,11 +1,8 @@
-# **Caminho mínimo em metrôs com Acessibilidade**
-
-### Uma aplicação para encontrar o caminho mais rápido pelo metrô de São Paulo
+# *Caminhos Rápidos e Inclusivos: Uma Abordagem Algorítmica no Metrô de São Paulo**
 
 Trabalho Final para a disciplina de Algoritmos e Estruturas de Dados II. <br/>
 
 ## 🎯Objetivo 
-
 
 Este projeto visa implementar o algoritmo de Dijkstra para encontrar a rota mais rápida entre estações de metrô, considerando a acessibilidade para pessoas que necessitam de recursos específicos. A pesquisa utiliza a Teoria dos Grafos para modelar as conexões entre as estações e analisar o tempo de deslocamento. O estudo se concentra no metrô de São Paulo, destacando a presença de recursos como elevadores, rampas e piso tátil nas estações.
 
@@ -13,13 +10,12 @@ O projeto utiliza dois grafos, Grafo 1 considerando apenas o tempo de deslocamen
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="img/grafo.png" width="400" height="450">
+    <img src="img/grafo.png" width="380" height="420">
 </div>
 
-O estudo aprofundado está no artigo disponível neste github.
+O aprofundamento do estudo está detalhado no artigo disponível neste repositório do GitHub."
 
-
-##  👾Compilação e Execução  
+##  👾Compilação e Execução
 
 Para tanto, temos as seguintes diretrizes de execução:
 

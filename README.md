@@ -14,7 +14,7 @@ O projeto utiliza dois grafos, Grafo 1 considerando apenas o tempo de deslocamen
 </div>
 
 O aprofundamento do estudo está detalhado no artigo disponível neste repositório do GitHub."
-
+gi 
 ##  👾Compilação e Execução
 
 Para tanto, temos as seguintes diretrizes de execução:

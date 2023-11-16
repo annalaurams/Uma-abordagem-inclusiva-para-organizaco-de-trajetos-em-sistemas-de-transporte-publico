@@ -1,20 +1,20 @@
-# *Caminhos Rápidos e Inclusivos: Uma Abordagem Algorítmica no Metrô de São Paulo**
+# **Caminhos Rápidos e Inclusivos: Uma Abordagem Algorítmica no Metrô de São Paulo**
 
 Trabalho Final para a disciplina de Algoritmos e Estruturas de Dados II. <br/>
 
 ## 🎯Objetivo 
 
-Este projeto visa implementar o algoritmo de Dijkstra para encontrar a rota mais rápida entre estações de metrô, considerando a acessibilidade para pessoas que necessitam de recursos específicos. A pesquisa utiliza a Teoria dos Grafos para modelar as conexões entre as estações e analisar o tempo de deslocamento. O estudo se concentra no metrô de São Paulo, destacando a presença de recursos como elevadores, rampas e piso tátil nas estações.
+A pesquisa utiliza a Teoria dos Grafos para modelar as conexões entre as estações e analisar o tempo necessário para ir de uma estação de partida a outra de chegada. O projeto utiliza dois grafos: o Grafo 1 que leva em conta somente o tempo de percurso e o Grafo 2 que considera, adicionalmente, a existência ou não de elevador, rampa e piso tátil.
 
-O projeto utiliza dois grafos, Grafo 1 considerando apenas o tempo de deslocamento  e Grafo 2 considerando a presença ou ausência de elevador, rampa e piso tátil.  
+ O trabalho utiliza a linguagem de programação Python e implementa o algoritmo de Dijkstra para identificar a trajetória mais eficiente no sistema de metrô de São Paulo.
+
+A seguir, será mostrado uma representação do mapa do metro aplicado em grafos. O aprofundamento do estudo está detalhado no artigo disponível neste repositório do GitHub.
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="img/grafo.png" width="380" height="420">
+    <img src="img/grafo.png" width="430" height="475">
 </div>
 
-O aprofundamento do estudo está detalhado no artigo disponível neste repositório do GitHub."
-gi 
 ##  👾Compilação e Execução
 
 Para tanto, temos as seguintes diretrizes de execução:

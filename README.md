@@ -13,7 +13,7 @@ O projeto utiliza dois grafos, Grafo 1 considerando apenas o tempo de deslocamen
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="img/grafoCompleto.png" width="400" height="450">
+    <img src="img/grafo.png" width="400" height="450">
 </div>
 
 O estudo aprofundado está no artigo disponível neste github.

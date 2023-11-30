@@ -1,19 +1,15 @@
-# **Caminhos Rápidos e Inclusivos: Uma Abordagem Algorítmica no Metrô de São Paulo**
+# **Caminhos Rápidos e Inclusivos: O algoritmo de Dijkstra aplicado no Metrô de São Paulo**
 
 Trabalho Final para a disciplina de Algoritmos e Estruturas de Dados II. <br/>
 
 ## 🎯Objetivo 
 
-A pesquisa utiliza a Teoria dos Grafos para modelar o mapa do Companhia de metrôs e trens de São Paulo. Portanto, estuda as conexões entre as estações e analisar o tempo necessário para ir de uma estação de partida até outra de chegada. O projeto utiliza dois grafos: um grafo que leva em conta somente o tempo de percurso e o grafo auxiliar que considera, adicionalmente, a existência ou não de elevador e rampa.
+A pesquisa utiliza a Teoria dos Grafos para modelar o mapa da Companhia de metrôs e trens de São Paulo. Portanto, estuda as conexões entre as estações e analisar o tempo necessário para ir de uma estação de partida até outra de chegada. O projeto utiliza dois grafos: um que verifica somente o tempo de percurso e o grafo auxiliar que considera, adicionalmente, a existência ou não de elevador e rampa em cada terminal.
 
-O trabalho utiliza a linguagem de programação Python e implementa o algoritmo de Dijkstra para identificar a trajetória mais rápida entre dois terminais.
+O trabalho utiliza a linguagem de programação Python e implementa o algoritmo de Dijkstra para identificar a trajetória mais rápida entre duas etsações.
+ 
+O aprofundamento do estudo está detalhado no artigo disponível neste repositório do GitHub.
 
-A seguir, será mostrado uma representação do mapa do metro aplicado em grafos. O aprofundamento do estudo está detalhado no artigo disponível neste repositório do GitHub.
-
-
-<div style="display: flex; justify-content: center;">
-    <img src="img/4.png" width="430" height="475">
-</div>
 
 ##  👾Compilação e Execução
 
@@ -22,7 +18,7 @@ Para tanto, temos as seguintes diretrizes de execução:
 
 | Comando                |  Algoritmo                                                                                           |                     
 | -----------------------| ------------------------------------------------------------------------------------------------- |
-|  python3      "metro.py"          | execução do código completo                                        |
+|  python3      "codigo.py"          | execução do código completo                                        |
 
 
 

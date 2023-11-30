@@ -47,7 +47,7 @@ grafo = {}
 arestas2 = []
 grafoAux = {}
 
-def Grafo1():
+def Grafo1(): #grafo principal
 
     arestas_df = pd.read_csv("arquivos/Arestas.csv", delimiter=",")
 
@@ -64,7 +64,7 @@ def Grafo1():
 
 Grafo1()
 
-def Grafo2():
+def Grafo2(): # grafo auxiliar, contém acessibilidade
 
     arestas_df = pd.read_csv("arquivos/Arestas.csv", delimiter=",")
 
@@ -78,11 +78,11 @@ def Grafo2():
             elevador = estacao_destino.elevador
             rampa = estacao_destino.rampa
 
-            if elevador == 1 and rampa == 1:  # Se tiver elevador na estação
+            if elevador == 1 and rampa == 1:  # Se tiver elevador e rampa na estação
                 tempo = tempo * 2.5
             elif rampa == 1:  # Se tiver rampa na estação
                 tempo = tempo * 3
-            elif elevador == 1:   # Se tiver piso tátil na estação
+            elif elevador == 1:   # Se tiver elevador tátil na estação
                 tempo = tempo * 2
 
         arestas2.append((origem, destino, tempo))
@@ -169,7 +169,7 @@ class Dijkstra:
 
         pq = [(0, source)]
 
-        while pq:
+        while pq: # enquanto a fila não estiver fazia
             min_distance, u = heapq.heappop(pq)
             if u is None:
                 break
@@ -187,7 +187,7 @@ class Dijkstra:
 
                     elif v in visited and v in distances and not visited[v] and distances[u] != sys.maxsize and distances[u] + weight < distances[v]:
 
-                        # Casos envolvendo a presença ou ausência de elevador, rampa e piso tpatil
+                        # Casos envolvendo a presença ou ausência de elevador e rampa
 
                         if (com_elevador and mapa[v].elevador == 1) and not com_rampa:
                           distances[v] = distances[u] + weight
@@ -253,30 +253,6 @@ for index, row in input_acess.iterrows():
 
 
       print("---------------------------------------------------------------------------------------------------------------------------------------------------------------------\n")
-
-
-def print_graph(mapa, grafo):
-    G = nx.DiGraph()
-
-    nodes = [estacao for estacao, info in mapa.items() if info.cor == "Amarela"]
-    G.add_nodes_from(nodes)
-
-    edges = [(origem, destino) for origem, destinos in grafo.items() if origem in nodes
-                  for destino, _ in destinos if destino in nodes]
-    G.add_edges_from(edges)
-
-    pos = nx.shell_layout(G)
-
-    pos_labels = {key: (x, y + 0.1) for key, (x, y) in pos.items()}
-
-    nx.draw(G, pos, with_labels=False, font_weight='bold', node_color='lightyellow', font_color='black', edge_color='yellow',
-            node_size=1500, width=5.0, font_size=8)
-
-    nx.draw_networkx_labels(G, pos_labels, labels={node: node for node in nodes}, font_size=8)
-
-    plt.show()
-
-print_graph(mapa, grafo)
 
 end_time = time.time()
 execution_time = (end_time - start_time) * 1000  # Convertendo para milissegundos

@@ -8,9 +8,6 @@ A pesquisa utiliza a Teoria dos Grafos para modelar o mapa da Companhia de metr�
 
 O trabalho utiliza a linguagem de programação Python e implementa o algoritmo de Dijkstra para identificar a trajetória mais rápida entre dois terminais.
  
-O aprofundamento do estudo está no artigo disponível neste repositório do GitHub.
-
-
 ##  👾Compilação e Execução
 
 Para tanto, temos as seguintes diretrizes de execução:

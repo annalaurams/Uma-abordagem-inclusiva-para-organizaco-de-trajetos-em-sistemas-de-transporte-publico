@@ -1,4 +1,4 @@
-# **Caminhos Rápidos e Inclusivos: O algoritmo de Dijkstra aplicado no Metrô de São Paulo**
+# **Uma Abordagem Inclusiva para Otimização de Trajetos em Sistemas de Transporte Público: Um Estudo de Acessibilidade por Teoria dos Grafos**
 
 Trabalho Final para a disciplina de Algoritmos e Estruturas de Dados II. <br/>
 

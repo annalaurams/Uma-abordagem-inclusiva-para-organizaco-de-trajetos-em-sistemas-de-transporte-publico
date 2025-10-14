@@ -3,7 +3,7 @@
 
 ---
 
-## 🧩 Sobre o Projeto
+## Sobre o Projeto
 
 Este trabalho apresenta uma abordagem computacional **inclusiva** para a determinação de trajetos em sistemas de metrô e trem, com foco na **acessibilidade para pessoas com deficiência**.  
 
@@ -17,13 +17,8 @@ Este estudo contribui para o debate sobre **infraestrutura urbana inclusiva**, d
 
 ## 🗺️ Representação Gráfica da Rede
 
-Os grafos abaixo representam a rede de metrô e trem de São Paulo, modelada com base em seus **nós (estações)** e **arestas (ligações entre estações)**.  
+O grafo abaixo representa a rede de metrô e trem de São Paulo, modelada com base em seus **nós (estações)** e **arestas (ligações entre estações)**.  
 Cada linha foi mapeada com uma cor distinta, conforme a legenda apresentada.
-
-
-### 🔹 Grafo Linha Amarela 
-<img src="img/linhaAmarela.png" width="400"/>
-
 
 
 ### 🔹 Grafo Rede Metroferroviária de São Paulo
@@ -54,7 +49,7 @@ Para tanto, temos as seguintes diretrizes de execução:
 |  python3      codigo.py          | Execução do código completo                                        |
 
 
-## 💬 Contato
+## Contato
 
 <div align="left">
 

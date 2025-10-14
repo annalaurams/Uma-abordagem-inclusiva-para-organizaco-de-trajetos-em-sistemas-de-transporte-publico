@@ -1,12 +1,43 @@
-# **Uma Abordagem Inclusiva para Otimização de Trajetos em Sistemas de Transporte Público: Um Estudo de Acessibilidade por Teoria dos Grafos**
+# 🚇 Uma Abordagem Inclusiva para Otimização de Trajetos em Sistemas de Transporte Público  
+### *Um Estudo de Acessibilidade por Teoria dos Grafos*
 
-Trabalho Final para a disciplina de Algoritmos e Estruturas de Dados II. <br/>
+---
 
-## 🎯Objetivo 
+## 🧩 Sobre o Projeto
 
-A pesquisa utiliza a Teoria dos Grafos para modelar o mapa da Companhia de metrôs e trens de São Paulo. Portanto, estuda as conexões entre as estações e analisa o tempo necessário para ir de uma estação de partida até outra de chegada. O projeto realiza a busca sob duas perspectivas, uma que verifica somente o tempo de percurso através do grafo principal e outra que considera, adicionalmente, a existência ou não de elevador e rampa em cada terminal e implementa o grafo auxiliar.
+Este trabalho apresenta uma abordagem computacional **inclusiva** para a determinação de trajetos em sistemas de metrô e trem, com foco na **acessibilidade para pessoas com deficiência**.  
 
-O trabalho utiliza a linguagem de programação Python e implementa o algoritmo de Dijkstra para identificar a trajetória mais rápida entre dois terminais.
+Baseado na **Teoria dos Grafos**, o algoritmo busca **otimizar o tempo de deslocamento**, considerando não apenas a rapidez do percurso, mas também a **presença de recursos de acessibilidade**, como elevadores e rampas.  
+
+A análise preliminar dos resultados mostra que, ao incorporar esses critérios, há um aumento no tempo total de viagem — evidenciando **deficiências estruturais** no transporte público em termos de acessibilidade.  
+
+Este estudo contribui para o debate sobre **infraestrutura urbana inclusiva**, destacando a importância de uma abordagem computacional que valorize a **igualdade de acesso e mobilidade**.
+
+---
+
+## 🗺️ Representação Gráfica da Rede
+
+Os grafos abaixo representam a rede de metrô e trem de São Paulo, modelada com base em seus **nós (estações)** e **arestas (ligações entre estações)**.  
+Cada linha foi mapeada com uma cor distinta, conforme a legenda apresentada.
+
+
+### 🔹 Grafo Linha Amarela 
+<img src="img/linhaAmarela.png" width="400"/>
+
+
+
+### 🔹 Grafo Rede Metroferroviária de São Paulo
+<img src="img/grafo.png" width="600"/>
+
+<img src="img/legenda.png" width="300"/>
+
+### Exemplo de Ligações — Linha Amarela
+A imagem a seguir ilustra um **recorte da Linha Amarela**, destacando as conexões entre suas estações e o formato circular de ligação entre os pontos principais.
+
+
+
+
+---
 
 ##  👾Compilação e Execução
 
@@ -23,12 +54,13 @@ Para tanto, temos as seguintes diretrizes de execução:
 |  python3      codigo.py          | Execução do código completo                                        |
 
 
-### Contato 
-<div>
- <br><p align="justify"> Anna Laura Moura Santana</p>
- <a href="https://t.me/annalaurams">
- <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
- </div>
-<a style="color:black" href="mailto:nalauramoura@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
-✉️ <i>nalauramoura@gmail.com</i>
-</a>
+## 💬 Contato
+
+<div align="left">
+
+👩‍💻 **Anna Laura Moura Santana**  
+✉️ [nalauramoura@gmail.com](mailto:nalauramoura@gmail.com?subject=[GitHub]%20Otimização%20de%20Trajetos%20-%20Grafos)  
+🌐 [LinkedIn](https://www.linkedin.com/in/annalaurams) | [GitHub](https://github.com/annalaurams)
+
+</div>
+

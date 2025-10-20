@@ -5,13 +5,11 @@
 
 ## Sobre o Projeto
 
-Este trabalho apresenta uma abordagem computacional **inclusiva** para a determinação de trajetos em sistemas de metrô e trem, com foco na **acessibilidade para pessoas com deficiência**.  
+Este trabalho apresenta uma abordagem computacional inclusiva para a determinação de trajetos em sistemas de metrô e trem, com foco na acessibilidade.  
 
-Baseado na **Teoria dos Grafos**, o algoritmo busca **otimizar o tempo de deslocamento**, considerando não apenas a rapidez do percurso, mas também a **presença de recursos de acessibilidade**, como elevadores e rampas.  
+Baseado na **Teoria dos Grafos**, o algoritmo busca **otimizar** o tempo de deslocamento, utilizando o **Algoritmo de Dijskstra** considerando não apenas a rapidez do percurso, mas também a presença de recursos de acessibilidade, como elevadores e rampas.  
 
-A análise preliminar dos resultados mostra que, ao incorporar esses critérios, há um aumento no tempo total de viagem — evidenciando **deficiências estruturais** no transporte público em termos de acessibilidade.  
-
-Este estudo contribui para o debate sobre **infraestrutura urbana inclusiva**, destacando a importância de uma abordagem computacional que valorize a **igualdade de acesso e mobilidade**.
+A análise preliminar dos resultados mostra que, ao incorporar esses critérios, há um aumento no tempo total de viagem, evidenciando lacunas estruturais no transporte público em termos de acessibilidade.  
 
 
 ### 🔹 Grafo Rede Metroferroviária de São Paulo

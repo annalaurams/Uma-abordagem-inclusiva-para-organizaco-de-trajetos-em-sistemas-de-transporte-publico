@@ -17,12 +17,6 @@ A análise preliminar dos resultados mostra que, ao incorporar esses critérios,
 
 <img src="img/legenda.png" width="300"/>
 
-### Exemplo de Ligações — Linha Amarela
-A imagem a seguir ilustra um **recorte da Linha Amarela**, destacando as conexões entre suas estações e o formato circular de ligação entre os pontos principais.
-
-
-
-
 ---
 
 ##  👾Compilação e Execução

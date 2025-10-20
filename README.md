@@ -13,13 +13,6 @@ A análise preliminar dos resultados mostra que, ao incorporar esses critérios,
 
 Este estudo contribui para o debate sobre **infraestrutura urbana inclusiva**, destacando a importância de uma abordagem computacional que valorize a **igualdade de acesso e mobilidade**.
 
----
-
-## 🗺️ Representação Gráfica da Rede
-
-O grafo abaixo representa a rede de metrô e trem de São Paulo, modelada com base em seus **nós (estações)** e **arestas (ligações entre estações)**.  
-Cada linha foi mapeada com uma cor distinta, conforme a legenda apresentada.
-
 
 ### 🔹 Grafo Rede Metroferroviária de São Paulo
 <img src="img/grafo.png" width="600"/>
